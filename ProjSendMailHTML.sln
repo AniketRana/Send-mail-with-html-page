@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjSendMailHTML", "ProjSendMailHTML\ProjSendMailHTML.csproj", "{75974234-BA26-4B79-A979-671043C81BBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75974234-BA26-4B79-A979-671043C81BBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75974234-BA26-4B79-A979-671043C81BBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75974234-BA26-4B79-A979-671043C81BBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75974234-BA26-4B79-A979-671043C81BBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {368567F9-9E55-4373-9BD5-F2F65D8A82A3}
+	EndGlobalSection
+EndGlobal
